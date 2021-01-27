@@ -1,8 +1,2 @@
-hello
-word
-i
-am
-git1
-1
-222222
-55555
+china_version
+我是中国人
